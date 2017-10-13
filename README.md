@@ -1,2 +1,2 @@
 # golox
-It's like http://www.craftinginterpreters.com...but with Go
+It's like http://www.craftinginterpreters.com ...but with Go
