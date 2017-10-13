@@ -53,3 +53,11 @@ const (
 	ILLEGAL = "ILLEGAL"
 	ERROR   = "ERROR"
 )
+
+type Token struct {
+	Type    TokenType
+	Literal string
+	Line    int
+	Column  int
+	Length  int
+}
